@@ -1,0 +1,111 @@
+2021-10-25 21:02:50Error: Input file not existed!
+2021-10-25 21:02:50Error: Input file not existed!
+2021-10-25 21:17:03Error: Input file not existed!
+2021-10-25 21:17:03Error: Input file not existed!
+2021-10-25 21:17:03Error: Input file not existed!
+2021-10-25 21:30:17 - Program Started~
+2021-10-25 21:30:17 - Error: Input file not existed!
+2021-10-25 21:30:17 - Program Started~
+2021-10-25 21:30:17 - Error: Input file not existed!
+2021-10-25 21:30:17 - Program Started~
+2021-10-25 21:30:17 - Error: Input file not existed!
+2021-10-25 21:30:56 - Program Started~
+2021-10-25 21:30:56 - Error: Input file not existed!
+2021-10-25 21:34:22 - Program Started~
+2021-10-25 21:34:22 - Bob, 1, 
+2021-10-25 21:34:22 - Ellen , 2, 
+2021-10-25 21:34:22 - Philip, 1, 
+2021-10-25 21:34:22 - Hugo, 2, 
+2021-10-25 21:34:22 - Flavia, 3, 
+2021-10-25 21:34:22 - Melissa, 1, 
+2021-10-25 21:34:22 - Total, 10, 
+
+2021-10-25 21:34:22 - Generation completed!
+2021-10-25 21:34:22 - Program Started~
+2021-10-25 21:34:22 - Error: Invalid Header Name!
+2021-10-25 21:34:22 - Program Started~
+2021-10-25 21:34:22 - Error: Input file not existed!
+2021-10-25 21:46:29 - Program Started~
+2021-10-25 21:46:29 - Bob, 1, 
+2021-10-25 21:46:29 - Ellen , 2, 
+2021-10-25 21:46:29 - Philip, 1, 
+2021-10-25 21:46:29 - Hugo, 2, 
+2021-10-25 21:46:29 - Flavia, 3, 
+2021-10-25 21:46:29 - Melissa, 1, 
+2021-10-25 21:46:29 - Total, 10, 
+
+2021-10-25 21:46:29 - Generation completed!
+2021-10-25 21:46:29 - Program Started~
+2021-10-25 21:46:29 - Error: Invalid Header Name!
+2021-10-25 21:46:29 - Program Started~
+2021-10-25 21:46:29 - Error: Input file not existed!
+2021-10-25 21:46:29 - Program Started~
+2021-10-25 21:46:29 - Error: Invalid Header Number!
+2021-10-25 21:46:29 - Program Started~
+2021-10-25 21:46:29 - Error: Student Name empty!
+2021-10-25 21:46:29 - Program Started~
+2021-10-25 21:46:29 - Error: Invalid Column Amount Of Student!
+2021-10-25 21:47:54 - Program Started~
+2021-10-25 21:47:54 - Bob, 1, 
+2021-10-25 21:47:54 - Ellen , 2, 
+2021-10-25 21:47:54 - Philip, 1, 
+2021-10-25 21:47:54 - Hugo, 2, 
+2021-10-25 21:47:54 - Flavia, 3, 
+2021-10-25 21:47:54 - Melissa, 1, 
+2021-10-25 21:47:54 - Total, 10, 
+
+2021-10-25 21:47:54 - Generation completed!
+2021-10-25 21:47:54 - Program Started~
+2021-10-25 21:47:54 - Error: Invalid Header Name!
+2021-10-25 21:47:54 - Program Started~
+2021-10-25 21:47:54 - Error: Input file not existed!
+2021-10-25 21:47:54 - Program Started~
+2021-10-25 21:47:54 - Error: Invalid Header Number!
+2021-10-25 21:47:54 - Program Started~
+2021-10-25 21:47:54 - Error: Student Name empty!
+2021-10-25 21:47:54 - Program Started~
+2021-10-25 21:47:54 - Error: Invalid Column Amount Of Student!
+2021-10-25 21:50:53 - Program Started~
+2021-10-25 21:50:53 - Bob, 1, 
+2021-10-25 21:50:53 - Ellen , 2, 
+2021-10-25 21:50:53 - Philip, 1, 
+2021-10-25 21:50:53 - Hugo, 2, 
+2021-10-25 21:50:53 - Flavia, 3, 
+2021-10-25 21:50:53 - Melissa, 1, 
+2021-10-25 21:50:53 - Total, 10, 
+
+2021-10-25 21:50:53 - Generation completed!
+2021-10-25 21:50:53 - Program Started~
+2021-10-25 21:50:53 - Error: Invalid Header Name!
+2021-10-25 21:50:53 - Program Started~
+2021-10-25 21:50:53 - Error: Input file not existed!
+2021-10-25 21:50:53 - Program Started~
+2021-10-25 21:50:53 - Error: Invalid Header Number!
+2021-10-25 21:50:53 - Program Started~
+2021-10-25 21:50:53 - Error: Student Name empty!
+2021-10-25 21:50:53 - Program Started~
+2021-10-25 21:50:53 - Error: Invalid Column Amount Of Student!
+2021-10-25 21:50:53 - Program Started~
+2021-10-25 21:50:53 - Error: Invalid Student Rating Type
+2021-10-25 21:54:38 - Program Started~
+2021-10-25 21:54:38 - Bob, 1, 
+2021-10-25 21:54:38 - Ellen , 2, 
+2021-10-25 21:54:38 - Philip, 1, 
+2021-10-25 21:54:38 - Hugo, 2, 
+2021-10-25 21:54:38 - Flavia, 3, 
+2021-10-25 21:54:38 - Melissa, 1, 
+2021-10-25 21:54:38 - Total, 10, 
+
+2021-10-25 21:54:38 - Generation completed!
+2021-10-25 21:54:38 - Program Started~
+2021-10-25 21:54:38 - Error: Invalid Header Name!
+2021-10-25 21:54:38 - Program Started~
+2021-10-25 21:54:38 - Error: Input file not existed!
+2021-10-25 21:54:38 - Program Started~
+2021-10-25 21:54:38 - Error: Invalid Header Number!
+2021-10-25 21:54:38 - Program Started~
+2021-10-25 21:54:38 - Error: Student Name empty!
+2021-10-25 21:54:38 - Program Started~
+2021-10-25 21:54:38 - Error: Invalid Column Amount Of Student!
+2021-10-25 21:54:38 - Program Started~
+2021-10-25 21:54:38 - Error: Invalid Student Rating Type
